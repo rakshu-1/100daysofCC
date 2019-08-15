@@ -10,3 +10,4 @@ for test purpose
 
 4) [Write a program that reads an integer number and prints its previous and next numbers. See the example below.](Day004.md)
 5) [How many apples will remain in the basket?](Day005.md)
+6) [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?](Day006.md)
