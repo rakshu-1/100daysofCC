@@ -15,6 +15,6 @@ for test purpose
 8) [Write a program to calculate the distance between two points.](Day008.md)
 9) [ Find the sum of its digits.](Day009.md)
 10) [Given an integer, print "odd" if it's odd and print "even" otherwise.](Day010.md)
-11) [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.] (3.9. If/else: Days in month.md)
+11) [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](3.9. If/else: Days in month.md)
 
 
